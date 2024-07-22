@@ -77,8 +77,8 @@ rain = coroutine.create(function()
 
 
 		mesh.MeshType = "FileMesh"
-		mesh.MeshId = "rbxassetid://5730254628"
-		mesh.TextureId = "rbxassetid://5730254691"
+		mesh.MeshId = "rbxassetid://430087593"
+		mesh.TextureId = "rbxassetid://430087598"
 	end
 end)
 coroutine.resume(sky)
